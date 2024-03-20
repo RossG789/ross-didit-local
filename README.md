@@ -1,11 +1,15 @@
-<ins>Deployed Site</ins>
+## <ins>Deployed Site</ins>
+
 https://ross-didit-local.vercel.app/
 
-<ins>Ross Fixes</ins>
-removed trailing comma in schema.sql
+## <ins>Ross Fixes</ins>
 
-<ins>Additional tips to avoid pain and suffering</ins>
-Be sure to update your github app urls once the app is deployed elsewise your login won't work.
+- removed trailing comma in schema.sql
+- When trying to vote while logged out will be met with customer error handling message
+
+## Additional tips to avoid pain and suffering
+
+- Be sure to update your github app urls once the app is deployed elsewise your login won't work.
 
 ## Upvote
 
