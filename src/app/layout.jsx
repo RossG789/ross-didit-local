@@ -31,6 +31,7 @@ export default async function RootLayout({ children }) {
               <UserInfo />
             </div>
           </header>
+
           <main className="max-w-screen-xl lg:mx-auto">{children}</main>
         </Providers>
       </body>

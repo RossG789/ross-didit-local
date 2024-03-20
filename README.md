@@ -1,6 +1,11 @@
-Ross Fixes
+<ins>Deployed Site</ins>
+https://ross-didit-local.vercel.app/
+
+<ins>Ross Fixes</ins>
 removed trailing comma in schema.sql
 
+<ins>Additional tips to avoid pain and suffering</ins>
+Be sure to update your github app urls once the app is deployed elsewise your login won't work.
 
 ## Upvote
 
