@@ -5,7 +5,7 @@ https://ross-didit-local.vercel.app/
 ## <ins>Ross Fixes</ins>
 
 - removed trailing comma in schema.sql
-- When trying to vote while logged out will be met with customer error handling message
+- When trying to vote while logged out will be met with custom error handling message
 
 ## Additional tips to avoid pain and suffering
 
